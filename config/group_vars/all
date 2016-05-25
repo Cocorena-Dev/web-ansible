@@ -1,0 +1,10 @@
+---
+
+config:
+  node_count: "1"
+  node_name: "cocorena"
+  region: "DFW"
+
+
+webconfig:
+  node_name: 'web-node'
